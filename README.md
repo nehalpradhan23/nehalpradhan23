@@ -46,10 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nehalpradhan23/nehalpradhan23/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Code snippet app - https://code-snippet-saver-nextjs.vercel.app/<br>github link - https://github.com/nehalpradhan23/code-snippet-saver-nextjs</p>
 
 ###
