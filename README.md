@@ -46,7 +46,11 @@
 
 ###
 
-<p align="left">Code snippet app - https://code-snippet-saver-nextjs.vercel.app/<br>github link - https://github.com/nehalpradhan23/code-snippet-saver-nextjs</p>
+<h3 align="left">Project 1 - CodeBoard - (code snippet saver)</h3>
+
+###
+
+<p align="left">manage and arrange all your favorite and useful code snippets in one place<br><br>Code snippet app - https://code-snippet-saver-nextjs.vercel.app/<br>github link - https://github.com/nehalpradhan23/code-snippet-saver-nextjs</p>
 
 ###
 
