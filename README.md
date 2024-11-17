@@ -44,23 +44,4 @@
   <img src="https://streak-stats.demolab.com?user=nehalpradhan23&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 
-<h3 align="left">Project 1 - CodeBoard - (code snippet saver)</h3>
-
-###
-
-<p align="left">manage and arrange all your favorite and useful code snippets in one place<br><br>Code snippet app - https://code-snippet-saver-nextjs.vercel.app/<br>github link - https://github.com/nehalpradhan23/code-snippet-saver-nextjs</p>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/nehalpradhan22/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="nehal.pradhan23@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
