@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Frontend developer with adequate knowledge about frontend technologies, frameworks and libraries like React and Next.js. I’ve been honing my skills by developing web applications and user interfaces. Currently looking for an entry-level frontend developer role. As a motivated and adaptable individual, I am eager to contribute and apply my knowledge to solve problems.</h4>
+<h4 align="left">Enthusiastic and detail-oriented full-stack developer with a strong foundation in web development technologies, frameworks and libraries like React, Next.js, MongoDB, Express.js. I’ve been honing my skills by developing web applications and user interfaces. Currently looking for an entry-level frontend/full-stack developer role. As a motivated and adaptable individual, I am eager to contribute and apply my knowledge to solve problems. As a motivated and adaptable individual, I am eager to contribute and apply my knowledge to solve problems.</h4>
 
 ###
 
